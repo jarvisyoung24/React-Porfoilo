@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #007bff; /* Example color */
+  padding: 40px 50px; /* Padding (top/bottom, left/right) */
+  border-bottom: 1px solid #03070c; /* Add a border to the bottom */
+}
+
+.navbar a {
+  font-size: 1.4rem; /* Adjust size as needed */
+  text-decoration: none; /* Remove underline from links */
+  color: #ffffff; /* Link color */
+}
+
+.navbar-brand {
+  color: rgb(246, 240, 240) !important; /* Change text color */
+  padding: 20px 20px; /* Padding (top/bottom, left/right) */
+  font-size: 2.5rem; /* Adjust size as needed */
+}
+
+.nav-link {
+  display: flex;
+  justify-content: space-between; /* Distributes space evenly between items */
+  width: 100%; /* Ensures the Nav takes full width */
+  color: rgb(245, 233, 233) !important; /* Change text color for links */
+  padding: 0px 150px; /* Padding (top/bottom, left/right) */
+}
+
+.nav-link:hover {
+  color: #0d131a !important; /* Change link color on hover */
+}
+

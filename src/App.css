@@ -1,0 +1,9 @@
+body {
+  background-color: #f2ecec; /* Light background color */
+  color: #0d0d0f; /* Dark text color for readability */
+  font-family: Arial, sans-serif;
+}
+
+white-text {
+  color: rgb(250, 250, 250);
+}
